@@ -5,3 +5,4 @@
 ### Project List
 
 1. Matrix Operations Visualizer
+2. Statistical Data Generator
