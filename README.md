@@ -12,9 +12,3 @@
 
 ### 3. Data Normalization and Scaling Tool
      This is an important project because real-world data often comes in varying scales, and machine learning models perform better when the data is normalized or scaled properly.
-
-### 4. Financial Portfolio Analysis (Basic Version)
-     This project will help you understand how to compute basic financial metrics like returns, variance, and correlation are essential tools for managing and analyzing investments.
-
-### 5. K-Means Clustering from Scratch
-     This is a powerful algorithm in machine learning for grouping similar data points. Implementing it from scratch will strengthen your understanding of distance metrics, iteration, convergence, and data grouping
